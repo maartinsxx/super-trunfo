@@ -24,3 +24,5 @@ Após o cadastro, os dados são exibidos na tela de forma organizada, simulando 
 - Terminal (entrada e saída padrão)
 
 ---
+![image](https://github.com/user-attachments/assets/9d85706d-9c35-4d74-9385-21738f105f04)
+
