@@ -5,13 +5,13 @@ Este projeto é um desafio de programação em linguagem C, proposto pela faculd
 
 O programa permite que o usuário **cadastre duas cartas** de cidades com as seguintes informações:
 
-- **Estado:** Letra de A a H
-- **Código da Carta:** Exemplo A01, B02, etc.
-- **Nome da Cidade**
-- **População**
-- **Área (em km²)**
-- **PIB (Produto Interno Bruto)**
-- **Número de Pontos Turísticos**
+- Estado: Letra de A a H
+- Código da Carta: Exemplo A01, B02, etc.
+- Nome da Cidade
+- População
+- Área (em km²)
+- PIB (Produto Interno Bruto)
+- Número de Pontos Turísticos
 
 Após o cadastro, os dados são exibidos na tela de forma organizada, simulando a estrutura de cartas do Super Trunfo.
 
