@@ -1,4 +1,4 @@
-Desafio Nível Novato - Cartas do Super Trunfo em C
+## Desafio Nível Novato - Cartas do Super Trunfo em C
 Este projeto é um desafio de programação em linguagem C, proposto pela faculdade, com o objetivo de simular o cadastro de cartas do jogo **Super Trunfo**, utilizando dados de cidades fictícias ou reais.
 
 // 💡 Sobre o Projeto
@@ -27,7 +27,7 @@ Após o cadastro, os dados são exibidos na tela de forma organizada, simulando 
 ![image](https://github.com/user-attachments/assets/9d85706d-9c35-4d74-9385-21738f105f04)
 ---
 
-Desafio Nível Aventureiro - Densidade Populacional e PIB per Capita
+## Desafio Nível Aventureiro - Densidade Populacional e PIB per Capita
 Na segunda etapa do projeto, foram adicionadas novas funcionalidades ao programa. Agora, além de cadastrar e exibir os dados básicos das cidades, o sistema também realiza cálculos matemáticos para fornecer 
 
 // 💡 Sobre: 
@@ -68,7 +68,7 @@ Além disso, também reforçou a importância de pensar em usabilidade e apresen
 ![image](https://github.com/user-attachments/assets/de81f550-1ca0-415a-ab1b-ec6167a854ac)
 ---
 
-Desafio Nível Mestre - Batalha de Cartas no Super Trunfo
+## Desafio Nível Mestre - Batalha de Cartas no Super Trunfo
 Chegamos ao nível avançado do projeto! Agora, o programa não só cadastra e calcula atributos das cartas, mas também implementa a lógica completa de batalha entre duas cartas do Super Trunfo.
 
 // 💡 Sobre:
